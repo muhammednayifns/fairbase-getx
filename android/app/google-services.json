@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278945774118",
+    "project_id": "getaxfirbase",
+    "storage_bucket": "getaxfirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278945774118:android:d0973955b6e8d3303fc4e7",
+        "android_client_info": {
+          "package_name": "com.example.getaxfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278945774118-aivlbm4l5p54arv3q3529f0lmt8p824q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPufcuIZP4zjVShnozkBVvl7M0mSPw_08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278945774118-aivlbm4l5p54arv3q3529f0lmt8p824q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
